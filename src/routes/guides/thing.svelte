@@ -1,0 +1,1 @@
+<h2>Thing should be found at /guides/thing</h2>

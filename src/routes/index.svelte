@@ -20,7 +20,10 @@
 </script>
 
 <div class="index">
-  <a href="/about">ABOUT PAAAAAAAAGE</a>
+  <nav>
+    <a href="/about">About</a>
+    <a href="/guides">Guides</a>
+  </nav>
   <h2>{objPageTitle.wordOne} {objPageTitle.wordTwo.letters.join('')}</h2>
   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique, explicabo dignissimos distinctio voluptatibus quo nulla est sapiente excepturi. Fuga hic quasi ullam, qui cumque laboriosam. Culpa mollitia harum hic. Repudiandae quam voluptatum praesentium, ea illo, fugiat cum minus nulla perferendis sequi similique esse doloribus maxime odit harum earum vitae error!</p>
 
