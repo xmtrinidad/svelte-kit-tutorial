@@ -1,4 +1,6 @@
 <script>
+  import Box from '$lib/box.svelte';
+
   // Testing object mutation and page renders
   let objPageTitle = {
     wordOne: 'Test',
@@ -33,6 +35,10 @@
     <label for="two-way-bind">BIIIIIIIIIIIIIIIIIIIIIND</label>
     <input type="text" id="two-way-bind" bind:value={objPageTitle.wordOne}>
   </div>
+  
+  <Box />
+  <Box bg="coral" />
+  <Box bg="green" />
   
 </div>
 
