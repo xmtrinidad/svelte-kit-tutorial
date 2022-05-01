@@ -42,7 +42,11 @@
   
 </div>
 
-<style></style>
+<style>
+  a {
+    color: #fff;
+  }
+</style>
 
 
 
